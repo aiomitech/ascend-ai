@@ -1,0 +1,6 @@
+@AscendAI.API_HostAddress = http://localhost:5115
+
+GET {{AscendAI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

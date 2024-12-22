@@ -34,6 +34,7 @@ This document tracks my ongoing progress and insights while building **AscendAI*
 | 2024-12-21     | Created repo & solution structure                          | AscendAI.sln with Blazor, API, Data projects    |
 | 2024-12-21     | Completed [Introduction to Web Development with Blazor](https://learn.microsoft.com/api/achievements/share/en-us/SteveLivingston-4923/UY4XC843?sharingId=CD38608178F16CDA) | Microsoft Learn    |
 | 2024-12-21     | Completed [Build your first web app with Blazor](https://learn.microsoft.com/api/achievements/share/en-us/SteveLivingston-4923/3RKYU8VH?sharingId=CD38608178F16CDA) | Microsoft Learn    |
+| 2024-12-22     | Completed [Build a to-do list with Blazor](https://learn.microsoft.com/api/achievements/share/en-us/SteveLivingston-4923/ZK9BCQ52?sharingId=CD38608178F16CDA) | Microsoft Learn    |
 | 2024-xx-xx     | Set up landing page                                        | Basic page layout using Blazor Server & Bootstrap|
 | 2024-xx-xx     | Connected to AI service (OpenAI)                           | Simple call to AI for initial test prompts      |
 

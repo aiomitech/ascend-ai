@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AscendAI.API", "api\AscendA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AscendAI.Data", "domain\AscendAI.Data.csproj", "{676CC4F4-D05B-4C75-BF49-E8FD0CCA8061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AscendAI.Blazor", "web\AscendAI.Blazor.csproj", "{5EE6FF2A-5618-47CA-B0F3-E23EC0F017A9}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{D405D025-4462-44F1-9023-E1CFE34424EE}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
@@ -26,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{BE81953C-6
 	ProjectSection(SolutionItems) = preProject
 		docs\LEARNING.md = docs\LEARNING.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AscendAI.Blazor", "web\AscendAI.Blazor.csproj", "{68E589C3-9E58-4A55-8C73-A47CF1BF8103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{676CC4F4-D05B-4C75-BF49-E8FD0CCA8061}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676CC4F4-D05B-4C75-BF49-E8FD0CCA8061}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{676CC4F4-D05B-4C75-BF49-E8FD0CCA8061}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5EE6FF2A-5618-47CA-B0F3-E23EC0F017A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EE6FF2A-5618-47CA-B0F3-E23EC0F017A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EE6FF2A-5618-47CA-B0F3-E23EC0F017A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EE6FF2A-5618-47CA-B0F3-E23EC0F017A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E589C3-9E58-4A55-8C73-A47CF1BF8103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E589C3-9E58-4A55-8C73-A47CF1BF8103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E589C3-9E58-4A55-8C73-A47CF1BF8103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E589C3-9E58-4A55-8C73-A47CF1BF8103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +52,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BA316846-03D2-4545-B8BA-095805C6D107} = {E81AD0A0-9F64-4467-849A-C5EBDB260612}
 		{676CC4F4-D05B-4C75-BF49-E8FD0CCA8061} = {D67C41E5-5FDC-479B-A4AC-7C73FACA0EC3}
-		{5EE6FF2A-5618-47CA-B0F3-E23EC0F017A9} = {5935855D-2C2F-4139-A90D-16607E5AA164}
+		{68E589C3-9E58-4A55-8C73-A47CF1BF8103} = {5935855D-2C2F-4139-A90D-16607E5AA164}
 	EndGlobalSection
 EndGlobal

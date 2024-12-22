@@ -24,18 +24,18 @@ This document tracks my ongoing progress and insights while building **AscendAI*
 
 3. **Key Challenges**  
    - List any blockers or difficult concepts you’re working through.
-
+      
 ---
 
 ## 3. Completed Milestones
 
-| **Date**       | **Milestone**                         | **Notes**                                       |
-|----------------|---------------------------------------|-------------------------------------------------|
-| 2024-xx-xx     | Created repo & solution structure      | AscendAI.sln with Blazor, API, Data projects    |
-| 2024-xx-xx     | Set up landing page                    | Basic page layout using Blazor Server & Bootstrap|
-| 2024-xx-xx     | Connected to AI service (OpenAI)       | Simple call to AI for initial test prompts      |
-
-Keep this table updated whenever you finish a new feature or learn a key concept.
+| **Date**       | **Milestone**                                              | **Notes**                                       |
+|----------------|------------------------------------------------------------|-------------------------------------------------|
+| 2024-12-21     | Created repo & solution structure                          | AscendAI.sln with Blazor, API, Data projects    |
+| 2024-12-21     | Completed [Introduction to Web Development with Blazor](https://learn.microsoft.com/api/achievements/share/en-us/SteveLivingston-4923/UY4XC843?sharingId=CD38608178F16CDA) | Microsoft Learn    |
+| 2024-12-21     | Completed [Build your first web app with Blazor](https://learn.microsoft.com/api/achievements/share/en-us/SteveLivingston-4923/3RKYU8VH?sharingId=CD38608178F16CDA) | Microsoft Learn    |
+| 2024-xx-xx     | Set up landing page                                        | Basic page layout using Blazor Server & Bootstrap|
+| 2024-xx-xx     | Connected to AI service (OpenAI)                           | Simple call to AI for initial test prompts      |
 
 ---
 
